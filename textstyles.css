@@ -1,0 +1,51 @@
+/* Body Stylying */
+body{
+    background-color: rgb(255, 181, 171);
+    color: rgb(27, 27, 27);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    line-height: 1.7;
+}
+
+/* Main Heading Styling */
+h1{
+    color: #fcf4e9;
+    background-color: #e0836e;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Secondary Heading Styling */
+h2{
+    color: #c23d43;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Paragraph Styling */
+p{
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+/* List Styling */
+ul{
+    color: #b4342c;
+    font-size: 16px;
+    line-height: 1.6;
+    list-style-type: disc;
+}
+
+/* Link Styling */
+a{
+    color: #e91664;
+   text-decoration: underline;
+}
+
+/* CSS Exploration: Image Borders */
+img {
+    border-radius: 13;
+    border-style: dotted;
+    color: black;
+}
