@@ -45,7 +45,7 @@ a{
 
 /* CSS Exploration: Image Borders */
 img {
-    border-radius: 13;
+    border-radius: 13px; /*needs dimension measurement*/
     border-style: dotted;
     color: black;
 }
